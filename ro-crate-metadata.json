@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-04-09T08:42:44.209401",
+            "datePublished": "2024-04-29T08:49:48.242493",
             "hasPart": [
                 {
                     "@id": "atacseq.ga"
@@ -72,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/atacseq",
-            "version": "0.13"
+            "version": "0.14"
         },
         {
             "@id": "#galaxy",
